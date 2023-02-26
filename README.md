@@ -1,4 +1,4 @@
-# talandron_food_app_ui
+# food_app_ui
 
 A new Flutter project.
 
